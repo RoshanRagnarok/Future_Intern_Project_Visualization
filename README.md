@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis and Data Cleaning
+#  Dataset Visualization
 
 ## Overview
 This project focuses on analyzing the Titanic dataset, which provides valuable insights into the passengers aboard the ill-fated Titanic. The analysis includes data cleaning, exploration of various features, and statistical analysis to understand factors influencing survival rates.
